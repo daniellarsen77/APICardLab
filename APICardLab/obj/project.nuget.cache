@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLmPT2X14hNizK3govBGLaxEU5QEaVcmJK9Usbqkjh8HOsXcEiHF/kbSRiUhoVGptT2rStE4iUG9yxS8rT7DMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bowha\\source\\repos\\APICardLab\\APICardLab\\APICardLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bowha\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\bowha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\bowha\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\bowha\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
